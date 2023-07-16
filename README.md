@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rhys706
-- 👀 I’m interested in AI, bouldering, camping, space tech & physiology
-- 🌱 I’m currently learning discord bots...
+- 👋 Hi, I’m @rhys706 (endeavouring engineer, coder, adventurer)
+- 👀 I’m interested in AI, bouldering, hiking, camping, space tech & physiology
+- 🌱 I’m currently learning discord bots and google colab...
 - 💞️ I’m looking to collaborate on running & training open source AI models
 - 📫 Maybe I'll get on twitter or threads at some stage...
 
