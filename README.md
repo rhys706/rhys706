@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rhys706 (endeavouring engineer, coder, adventurer)
-- 👀 I’m interested in AI, bouldering, hiking, camping, space tech & physiology
-- 🌱 I’m currently learning APIs...
-- 💞️ I’m looking to collaborate on running & training open source AI models
+- 👋 Hi, I’m @rhys706 (engineer, adventurer, entrepreneur)
+- 👀 I’m interested in AI, bouldering, hiking, camping, space tech & cybersecurity
+- 🌱 I’m currently learning cybersecurity and AI integration
+- 💞️ I’m looking for runpod templates...
 - 📫 Maybe I'll get on twitter or threads at some stage...
 
 <!---
